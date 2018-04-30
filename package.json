@@ -1,0 +1,32 @@
+{
+  "name": "non-italic-monokai",
+  "displayName": "non-italic-monokai",
+  "description": "Non-Italic Monokai Theme",
+  "version": "0.0.1",
+  "publisher": "Neos21",
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Neos21",
+        "uiTheme": "vs-dark",
+        "path": "./themes/non-italic-monokai.tmTheme"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neos21/vscode-non-italic-monokai.git"
+  },
+  "author": "Neo <neos21@gmail.com> (http://neo.s21.xrea.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Neos21/vscode-non-italic-monokai/issues"
+  },
+  "homepage": "https://github.com/Neos21/vscode-non-italic-monokai#readme"
+}
