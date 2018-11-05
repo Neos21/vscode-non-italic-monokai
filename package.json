@@ -1,11 +1,11 @@
 {
   "name": "non-italic-monokai",
   "displayName": "non-italic-monokai",
-  "description": "Non-Italic Monokai Theme",
-  "version": "0.0.1",
+  "description": "Neo's Non-Italic Monokai Theme",
+  "version": "0.0.2",
   "publisher": "Neos21",
   "engines": {
-    "vscode": "^1.22.0"
+    "vscode": "*"
   },
   "categories": [
     "Themes"
@@ -15,7 +15,7 @@
       {
         "label": "Neos21",
         "uiTheme": "vs-dark",
-        "path": "./themes/non-italic-monokai.tmTheme"
+        "path": "./themes/non-italic-monokai.json"
       }
     ]
   },

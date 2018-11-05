@@ -1,4 +1,4 @@
-# Non-Italic Monokai Theme
+# Neo's Non-Italic Monokai Theme
 
 A theme based on the flatland-monokai TextMate Theme.
 
