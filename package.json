@@ -19,14 +19,18 @@
       }
     ]
   },
+  "author": "Neo <neos21@gmail.com> (http://neo.s21.xrea.com/)",
+  "license": "MIT",
+  "homepage": "https://github.com/Neos21/vscode-non-italic-monokai#readme",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Neos21/vscode-non-italic-monokai.git"
   },
-  "author": "Neo <neos21@gmail.com> (http://neo.s21.xrea.com/)",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Neos21/vscode-non-italic-monokai/issues"
   },
-  "homepage": "https://github.com/Neos21/vscode-non-italic-monokai#readme"
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/Neos21"
+  }
 }
