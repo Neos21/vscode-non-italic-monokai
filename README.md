@@ -5,7 +5,7 @@ A theme based on the flatland-monokai TextMate Theme.
 
 ## Author
 
-[Neo](http://neo.s21.xrea.com/) ([@Neos21](https://twitter.com/Neos21))
+[Neo](http://neo.s21.xrea.com/)
 
 - [GitHub - vscode-non-italic-monokai](https://github.com/Neos21/vscode-non-italic-monokai)
 - [Visual Studio Marketplace - non-italic-monokai](https://marketplace.visualstudio.com/items?itemName=Neos21.non-italic-monokai)
