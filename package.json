@@ -1,8 +1,22 @@
 {
   "name": "non-italic-monokai",
-  "displayName": "non-italic-monokai",
   "description": "Neo's Non-Italic Monokai Theme",
   "version": "0.0.2",
+  "author": "Neo <neos21@gmail.com> (https://neos21.net/)",
+  "license": "MIT",
+  "homepage": "https://github.com/Neos21/vscode-non-italic-monokai#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neos21/vscode-non-italic-monokai.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Neos21/vscode-non-italic-monokai/issues"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/Neos21"
+  },
+  "displayName": "non-italic-monokai",
   "publisher": "Neos21",
   "engines": {
     "vscode": "*"
@@ -18,19 +32,5 @@
         "path": "./themes/non-italic-monokai.json"
       }
     ]
-  },
-  "author": "Neo <neos21@gmail.com> (http://neo.s21.xrea.com/)",
-  "license": "MIT",
-  "homepage": "https://github.com/Neos21/vscode-non-italic-monokai#readme",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Neos21/vscode-non-italic-monokai.git"
-  },
-  "bugs": {
-    "url": "https://github.com/Neos21/vscode-non-italic-monokai/issues"
-  },
-  "funding": {
-    "type": "github",
-    "url": "https://github.com/sponsors/Neos21"
   }
 }
