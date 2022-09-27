@@ -1,0 +1,2 @@
+# JSON を言語判定に認識させる
+*.json linguist-detectable=true
